@@ -1,0 +1,534 @@
+{
+  "redirects": [
+    {
+      "source": "/service-area/berkley",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/berkley/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/bourne",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/bourne/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/bridgewater",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/bridgewater/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/brockton",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/brockton/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/carver",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/carver/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/dartmouth",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/dartmouth/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/dennis",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/dennis/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/dighton",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/dighton/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/easton",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/easton/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/fairhaven",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/fairhaven/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/fall-river",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/fall-river/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/falmouth",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/falmouth/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/freetown",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/freetown/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/lakeville",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/lakeville/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/marion",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/marion/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/mashpee",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/mashpee/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/mattapoisett",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/mattapoisett/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/middleborough",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/middleborough/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/plymouth",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/plymouth/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/raynham",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/raynham/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/rehoboth",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/rehoboth/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/rochester",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/rochester/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/sandwich",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/sandwich/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/seekonk",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/seekonk/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/somerset",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/somerset/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/swansea",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/swansea/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/taunton",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/taunton/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/wareham",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/wareham/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/westport",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/westport/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/yarmouth",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/yarmouth/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/barrington",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/barrington/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/bristol",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/bristol/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/east-providence",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/east-providence/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/jamestown",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/jamestown/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/little-compton",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/little-compton/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/newport",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/newport/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/portsmouth",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/portsmouth/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/tiverton",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/tiverton/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/warren",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/warren/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/pricing",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/pricing/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/faq",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/faq/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/resources",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/south-coast-ma",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/south-coast-ma/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/cape-cod-ma",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/cape-cod-ma/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/rhode-island",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/rhode-island/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/south-shore-ma",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/south-shore-ma/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/fall-river-taunton-area",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/fall-river-taunton-area/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/junk-removal-pricing-massachusetts",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/junk-removal-pricing-massachusetts/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/junk-removal-vs-dumpster-rental",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/junk-removal-vs-dumpster-rental/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/what-items-junk-removal-takes",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/what-items-junk-removal-takes/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/how-to-prepare-junk-removal-pickup",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/how-to-prepare-junk-removal-pickup/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/review",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/review/",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
