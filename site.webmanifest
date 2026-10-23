@@ -1,0 +1,10 @@
+{
+  "name": "Junes Junk Removal",
+  "short_name": "Junes Junk",
+  "description": "Locally owned junk removal in New Bedford, MA and across the South Coast.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a1030",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
