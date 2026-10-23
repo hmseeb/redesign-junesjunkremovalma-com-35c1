@@ -529,6 +529,11 @@
       "source": "/review/",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/admin",
+      "destination": "https://vision.leadrai.com/site-admin/site-9746364c5e9d1579c2187bbba4329281c927",
+      "permanent": false
     }
   ]
 }
